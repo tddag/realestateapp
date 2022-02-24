@@ -1,3 +1,9 @@
+Live Demo: https://tdrealestateapp.vercel.app/
+
+<img width="1539" alt="Screen Shot 2022-02-24 at 13 53 23" src="https://user-images.githubusercontent.com/34137087/155588944-d824766d-514b-43a9-8bc8-1970ace81ee8.png">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

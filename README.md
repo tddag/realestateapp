@@ -3,6 +3,64 @@ Live Demo: https://tdrealestateapp.vercel.app/
 <img width="1539" alt="Screen Shot 2022-02-24 at 13 53 23" src="https://user-images.githubusercontent.com/34137087/155588944-d824766d-514b-43a9-8bc8-1970ace81ee8.png">
 
 
+# Setup
+
+- Install [Node](https://nodejs.org/en/download/)
+- Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- Clone the repository `https://github.com/tddag/realestateapp`
+- Install dependencies `npm install`
+- Setup [RapidAPI](https://rapidapi.com/)
+- Setup environment variables:
+  - <table>
+        <tr>
+            <th>Variable</th>
+            <th>Value</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>RAPID_API_HOST</td>
+            <td>bayut.p.rapidapi.com</td>
+            <td>Rapid API Host</td>
+        </tr>   
+        <tr>
+            <td>RAPID_API_KEY</td>
+            <td>2e5d9595....</td>
+            <td>Rapid API Key</td>
+        </tr>                                                   
+    </table>
+- Run the application `npm run dev`
+
+
+# Functionalities
+- Property Listing for Rent or Buy
+    <table>
+        <tr>
+            <td><img src="./screenshots/protery_listing.png" alt="protery_listing"></td>
+        </tr>
+    </table>
+- Property Filter
+    <table>
+        <tr>
+            <td><img src="./screenshots/property_filter.png" alt="property_filter"></td>
+        </tr>
+    </table>
+- Prooperty Details
+    <table>
+        <tr>
+            <td><img src="./screenshots/property_details.png" alt="property_details"></td>
+        </tr>
+    </table>
+
+# Technologies/Libraries
+- NextJS: React Framework
+- React: Web library
+- RapidAPI: API marketplace
+- CharkaUI: React components
+- axios: promised-based HTTP Client
+- framer-motion: animation-library
+- millify: converts long numbers into pretty, human-readable strings
+- nprogress: progress bar
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

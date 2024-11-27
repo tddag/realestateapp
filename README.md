@@ -35,7 +35,7 @@ Live Demo: https://tdrealestateapp.vercel.app/
 - Property Listing for Rent or Buy
     <table>
         <tr>
-            <td><img src="./screenshots/protery_listing.png" alt="protery_listing"></td>
+            <td><img src="./screenshots/property_listing.png" alt="property_listing"></td>
         </tr>
     </table>
 - Property Filter
